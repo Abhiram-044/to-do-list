@@ -27,7 +27,7 @@ DEBUG = True
 
 import os
 
-ALLOWED_HOSTS = ["to-do-list-by-bayzam.onrender.com"]
+ALLOWED_HOSTS = ["to-do-list-tx3g.onrender.com"]
 
 
 # Application definition
